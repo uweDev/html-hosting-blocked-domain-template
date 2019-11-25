@@ -8,11 +8,11 @@ This is a Open-Source-Software.
 This open source software was released on 24.11.2019 by Uwe Hellmann and is subject to the MIT License.
 You can download this Open-Source-Software from here: https://github.com/uweDev/html-hosting-blocked-domain-template
 -->
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Domain blocked</title>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<title>Domain blocked</title>
 		<style>
 			* {
 				margin: 0;
@@ -61,7 +61,7 @@ You can download this Open-Source-Software from here: https://github.com/uweDev/
 			</header>
 			<div class="blockedDomainContent">
 				<h2>Deutsch</h2>
-        <p>Diese Website ist zur Zeit nicht erreichbar. Besuchen Sie diese Seite zu einem späteren Zeitpunkt noch einmal. Vielen Dank.</p>
+      				<p>Diese Website ist zur Zeit nicht erreichbar. Besuchen Sie diese Seite zu einem späteren Zeitpunkt noch einmal. Vielen Dank.</p>
 				<h2>English</h2>
 				<p>This website is currently not available. Please try again later. Thank you.</p>
 			</div>
