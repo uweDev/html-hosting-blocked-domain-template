@@ -61,9 +61,9 @@ You can download this Open-Source-Software from here: https://github.com/uweDev/
 			</header>
 			<div class="blockedDomainContent">
 				<h2>Deutsch</h2>
-      				<p>Diese Website ist zur Zeit nicht erreichbar. Besuchen Sie diese Seite zu einem späteren Zeitpunkt noch einmal. Vielen Dank.</p>
+      				<p>Diese Website (<?php echo $_SERVER["SERVER_NAME"]; ?>) ist zur Zeit nicht erreichbar. Besuchen Sie diese Seite zu einem späteren Zeitpunkt noch einmal. Vielen Dank.</p>
 				<h2>English</h2>
-				<p>This website is currently not available. Please try again later. Thank you.</p>
+				<p>This website (<?php echo $_SERVER["SERVER_NAME"]; ?>) is currently not available. Please try again later. Thank you.</p>
 			</div>
 			<footer class="text-center">
 				<a href="#">Powered by Your LOGO</a>
